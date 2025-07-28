@@ -12,7 +12,7 @@ Our approach involves two main steps:
 
 The model was trained and validated on genomic subsequence datasets from SARS-CoV-2 and HIV-1.
 
-## Jupyter Notebook: `Main.ipynb`
+## Jupyter Notebook: `Main.py`
 
 This notebook demonstrates the prediction capabilities of the trained LSTM model. It performs the following steps:
 
