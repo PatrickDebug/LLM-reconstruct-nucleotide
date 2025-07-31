@@ -1,6 +1,6 @@
 # Reconstruction of Masked DNA Sequences
 
-This repository contains the Jupyter Notebook for the prediction phase of the research paper: "Reconstruction of Masked Sequences via Inverse Mapping of Incomplete Information Natural Vectors".
+This repository contains the prediction phase of the research paper: "Reconstruction of Masked Sequences via Inverse Mapping of Incomplete Information Natural Vectors".
 
 ## Overview
 
@@ -12,7 +12,7 @@ Our approach involves two main steps:
 
 The model was trained and validated on genomic subsequence datasets from SARS-CoV-2 and HIV-1.
 
-## Jupyter Notebook: `Main.py`
+## `Main.py`
 
 This notebook demonstrates the prediction capabilities of the trained LSTM model. It performs the following steps:
 
@@ -27,7 +27,6 @@ This notebook demonstrates the prediction capabilities of the trained LSTM model
 ### Prerequisites
 
 - Python 3.10.15
-- Jupyter Notebook or JupyterLab
 - Required libraries: `pandas`, `numpy`, `tensorflow`
 
 You can install the dependencies using pip:
